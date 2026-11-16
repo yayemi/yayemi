@@ -53,18 +53,12 @@ Acredito que cada projeto é uma oportunidade de experimentar, errar, corrigir e
 
 ## 📊 `system_stats`
 
+
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=yayemi&show_icons=true&hide_border=true&bg_color=0D0B12&title_color=B388FF&icon_color=9D6BFF&text_color=D8D2E5&cache_seconds=86400"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayemi&layout=compact&hide_border=true&bg_color=0D0B12&title_color=B388FF&text_color=D8D2E5&cache_seconds=86400"
-    alt="Linguagens mais utilizadas"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yayemi&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayemi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
 
 
 ## 🎯 `current_mission`
