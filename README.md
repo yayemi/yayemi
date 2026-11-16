@@ -51,13 +51,7 @@ Acredito que cada projeto é uma oportunidade de experimentar, errar, corrigir e
 
 </div>
 
-
-<div align="center">
-
-# ✨ YAYEMI
-
-</div>
-
+---
 
 ## 🎯 `current_mission`
 
